@@ -1,0 +1,49 @@
+
+
+header{
+    position: relative;
+    left: 500px;
+
+}
+
+h1 { 
+    background-color: #C4C4C4;
+    color: #005677;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    letter-spacing: 10px;
+    word-spacing: 2px;
+    font-size: 35PX;
+    font-style: normal;
+    font-weight: 700;
+}
+
+h2{
+    background-color:#C4C4C4 ;
+    color:#005677 ;
+    letter-spacing: 10px;
+    word-spacing: 2px;
+    font-size: 20px;
+    padding: 2px 18px;
+    }
+
+    section.espacioUnico{
+
+        position: relative;
+        top: 100px;
+    }
+
+    section{
+        position: relative;
+        top: 130px;
+        
+
+
+
+    }
+
+    footer{
+        position: absolute;
+        top: 1200px;
+
+    }
